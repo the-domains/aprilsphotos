@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-24T21:24:20.023Z'
-dateModified: '2016-01-24T21:20:44.699Z'
+datePublished: '2016-01-24T21:29:07.232Z'
+dateModified: '2016-01-24T21:29:04.339Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-portrait-event-and-fine-art-photographer.md
@@ -40,6 +40,7 @@ Photography has always been an interest of mine, and with a dad who retired from
 * Anniversary Party
 
 ## Fine Art:
+![Ballet](https://the-grid-user-content.s3-us-west-2.amazonaws.com/472c0f24-8f44-4da8-97d9-03bfa5db0c32.jpg)
 
 [0]: null
 [1]: www.facebook.com/aprilspix
