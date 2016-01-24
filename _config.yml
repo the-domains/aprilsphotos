@@ -1,20 +1,4 @@
-name: AprilsPhotos
-favicon: null
-layout_spectrum: 0.14206770597957075
-typography_spectrum: 0.07302396069280803
-title: 'AprilsPhotos - Portraits, Events, Fine Art'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#5f4f6c'
@@ -22,8 +6,13 @@ color:
     - '#000000'
     - '#ffffff'
     - '#c9a343'
-  brandStrength: 1
+  brandStrength: 0.000845
   lightness: 1
-  saturation: 1
   rhythmicContrast: 0
+  saturation: 0.228041
+cta: {}
+layout_spectrum: 0.783784
+name: AprilsPhotos
+opengraph: {}
 purpose: []
+typography_spectrum: 0.07302396069280803
