@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-24T21:29:07.309Z'
-dateModified: '2016-01-24T21:29:04.339Z'
+datePublished: '2016-01-25T04:43:39.053Z'
+dateModified: '2016-01-25T04:38:47.912Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-portrait-event-and-fine-art-photographer.md
@@ -41,6 +41,7 @@ Photography has always been an interest of mine, and with a dad who retired from
 
 ## Fine Art:
 ![Ballet](https://the-grid-user-content.s3-us-west-2.amazonaws.com/472c0f24-8f44-4da8-97d9-03bfa5db0c32.jpg)
+![Huntington Pier](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59dc6997-d655-4b73-a3ba-b93212ab9dc7.jpg)
 
 [0]: null
 [1]: www.facebook.com/aprilspix
