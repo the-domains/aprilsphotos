@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T05:50:29.344Z'
-dateModified: '2016-01-25T05:45:42.136Z'
+datePublished: '2016-01-25T05:55:28.710Z'
+dateModified: '2016-01-25T05:55:25.300Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-portrait-event-and-fine-art-photographer.md
