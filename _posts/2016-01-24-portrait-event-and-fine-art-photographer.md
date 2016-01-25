@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T05:38:09.071Z'
-dateModified: '2016-01-25T05:38:04.633Z'
+datePublished: '2016-01-25T05:50:29.112Z'
+dateModified: '2016-01-25T05:45:42.136Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-portrait-event-and-fine-art-photographer.md
@@ -40,8 +40,8 @@ Photography has always been an interest of mine, and with a dad who retired from
 * Anniversary Party
 
 ## Fine Art:
-![Huntington Pier](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b2c59786c5d0b18ffd2c88ded9cf3205e141612.jpg)
-![Ballet](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e82ac628320c4933857804fccbdb7118a6949b9.jpg)
+![Huntington Pier](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a51ecfd8f7f0ad8a426ba7838aa2ecd167ed669.jpg)
+![Ballet](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ef3871b284839d5e74cebcb5f1542fd5b6246df.jpg)
 
 [0]: null
 [1]: www.facebook.com/aprilspix
