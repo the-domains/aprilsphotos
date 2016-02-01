@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T03:08:57.910Z'
-dateModified: '2016-02-01T03:08:55.203Z'
+datePublished: '2016-02-01T05:50:33.906Z'
+dateModified: '2016-02-01T05:46:49.322Z'
 title: "April's Photos Fine Art"
 author: []
 sourcePath: _posts/2016-01-25-aprils-photos-fine-art.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: aprils-photos-fine-art/index.html
-_type: Article
+_type: WebPage
 
 ---
 # April's Photos Fine Art
