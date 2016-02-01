@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T05:39:52.769Z'
-dateModified: '2016-02-01T05:39:50.614Z'
-title: ''
+datePublished: '2016-02-01T05:48:45.735Z'
+dateModified: '2016-02-01T05:48:41.256Z'
+title: Home Page
 author: []
 sourcePath: _posts/2016-01-24-portrait-event-and-fine-art-photographer.md
 published: true
