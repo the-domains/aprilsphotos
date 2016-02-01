@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T02:45:37.941Z'
-dateModified: '2016-02-01T02:45:34.117Z'
+datePublished: '2016-02-01T05:39:52.576Z'
+dateModified: '2016-02-01T05:39:50.614Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-portrait-event-and-fine-art-photographer.md
@@ -41,9 +41,8 @@ Photography has always been an interest of mine, and with a dad who retired from
 * Welcome Home
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfc805f6-d5b3-427d-95ad-182a62f64424.jpg)
 
-## 
-
-## Fine Art:
+## [Fine Art:][1]
 ![Ballet](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ef3871b284839d5e74cebcb5f1542fd5b6246df.jpg)
 
 [0]: https://www.facebook.com/AprilsPix/
+[1]: https://thegrid.ai/aprilsphotos/aprils-photos-fine-art/
