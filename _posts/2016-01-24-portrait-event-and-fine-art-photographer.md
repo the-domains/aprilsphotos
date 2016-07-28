@@ -5,16 +5,21 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Business, Seniors, Families, Lifestyle, Maternity, Engagement'
-datePublished: '2016-06-18T17:54:12.985Z'
-dateModified: '2016-06-18T17:51:26.815Z'
+datePublished: '2016-07-28T15:34:40.644Z'
+dateModified: '2016-07-28T15:15:57.390Z'
 title: 'Portraits: '
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-01-24-portrait-event-and-fine-art-photographer.md
 authors: []
-publisher: null
-starred: false
+publisher:
+  name: April Fitzsimmons
+  domain: null
+  url: ''
+  favicon: null
+via: {}
+starred: true
 url: portrait-event-and-fine-art-photographer/index.html
 _type: Article
 
