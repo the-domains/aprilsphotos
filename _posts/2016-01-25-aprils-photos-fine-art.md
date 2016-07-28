@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Pink Gerber Daisy
-datePublished: '2016-07-28T15:29:21.063Z'
-dateModified: '2016-07-28T15:29:10.592Z'
+datePublished: '2016-07-28T20:04:47.899Z'
+dateModified: '2016-07-28T20:01:48.526Z'
 title: April's Photos Fine Art
 author:
   - name: April Fitzsimmons
@@ -15,7 +15,7 @@ sourcePath: _posts/2016-01-25-aprils-photos-fine-art.md
 via: {}
 authors: []
 publisher: {}
-starred: true
+starred: false
 url: aprils-photos-fine-art/index.html
 _type: Article
 
