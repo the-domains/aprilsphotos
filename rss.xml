@@ -4,21 +4,21 @@
         <description><![CDATA[April's Photos - Portraits, Events, Fine Art]]></description>
         <link>https://thegrid.ai/aprilsphotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 15:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 15:34:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aprilsphotos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portraits: ]]></title>
+            <description><![CDATA[<article><h1>Portraits: </h1><h2>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</h2><p>Business, Seniors, Families, Lifestyle, Maternity, Engagement</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df4cc241a0fba50f10a594746b66000151f5bd2e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/aprilsphotos/portrait-event-and-fine-art-photographer/index.html</link>
+            <guid isPermaLink="false">7cb441ff-5130-4b5c-bd17-3d9d6b2db4e2</guid>
+            <pubDate>Thu, 28 Jul 2016 15:34:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[April's Photos Fine Art]]></title>
             <description><![CDATA[<article><h1>April's Photos Fine Art</h1><h2>Flowers:</h2><p>Pink Gerber Daisy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c92d50a6f432174a666e2b1eec0b12f4268d639f.jpg"></article>]]></description>
             <link>https://thegrid.ai/aprilsphotos/aprils-photos-fine-art/index.html</link>
             <guid isPermaLink="false">d3631921-8576-4b58-ad61-36fabab4ef48</guid>
             <pubDate>Thu, 28 Jul 2016 15:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portraits: ]]></title>
-            <description><![CDATA[<article><h1>Portraits: </h1><h2>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</h2><p>Business, Seniors, Families, Lifestyle, Maternity, Engagement</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df4cc241a0fba50f10a594746b66000151f5bd2e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/aprilsphotos/portrait-event-and-fine-art-photographer/index.html</link>
-            <guid isPermaLink="false">7cb441ff-5130-4b5c-bd17-3d9d6b2db4e2</guid>
-            <pubDate>Sat, 18 Jun 2016 17:54:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
