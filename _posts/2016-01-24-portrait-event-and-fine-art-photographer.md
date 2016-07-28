@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Business, Seniors, Families, Lifestyle, Maternity, Engagement'
-datePublished: '2016-07-28T15:38:09.096Z'
-dateModified: '2016-07-28T15:38:06.160Z'
+datePublished: '2016-07-28T20:06:56.754Z'
+dateModified: '2016-07-28T20:06:52.846Z'
 title: 'Portraits: '
 author:
   - name: ''
@@ -44,12 +44,12 @@ School Dances, Birthday Party, Weddings and Vow Renewals, Anniversary Party, Wel
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# [Fine Art][2][:][3]
+# [Fine Art:][2]
 
-* Saturated Florals, Travel, Architecture
+* [Saturated Florals][3], Travel, Architecture
 ![Ballet](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa55db5176b5e4da2cae68c1f199bfae33694805.jpg)
 
 [0]: https://www.facebook.com/AprilsPix/
 [1]: null
-[2]: https://thegrid.ai/aprilsphotos/aprils-photos-fine-art/
-[3]: http://app.thegrid.ai/aprilsart
+[2]: https://app.thegrid.io/posts/d3631921-8576-4b58-ad61-36fabab4ef48/edit
+[3]: https://thegrid.ai/aprilsflowers/
