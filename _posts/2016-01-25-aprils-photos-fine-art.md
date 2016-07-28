@@ -1,25 +1,27 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-01T05:50:34.029Z'
-dateModified: '2016-02-01T05:46:49.322Z'
-title: "April's Photos Fine Art"
-author: []
+description: row houses in Newport Beach at sunset
+datePublished: '2016-07-28T15:18:13.735Z'
+dateModified: '2016-07-28T15:18:13.259Z'
+title: April's Photos Fine Art
+author:
+  - name: April Fitzsimmons
+    url: ''
 sourcePath: _posts/2016-01-25-aprils-photos-fine-art.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: aprils-photos-fine-art/index.html
-_type: WebPage
+_type: Article
 
 ---
 # April's Photos Fine Art
