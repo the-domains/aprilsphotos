@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Business, Seniors, Families, Lifestyle, Maternity, Engagement'
-datePublished: '2016-07-28T20:15:22.712Z'
-dateModified: '2016-07-28T20:12:36.157Z'
+datePublished: '2016-07-28T20:19:45.848Z'
+dateModified: '2016-07-28T20:19:15.454Z'
 title: 'Portraits: '
 author:
   - name: ''
@@ -47,7 +47,7 @@ School Dances, Birthday Party, Weddings and Vow Renewals, Anniversary Party, Wel
 # [Fine Art:][2]
 
 * [Saturated Florals][3], Travel, Architecture
-![Ballet](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa55db5176b5e4da2cae68c1f199bfae33694805.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa55db5176b5e4da2cae68c1f199bfae33694805.jpg)
 
 [0]: https://www.facebook.com/AprilsPix/
 [1]: null
